@@ -35,8 +35,6 @@ class ViewController: UIViewController {
         } completion: { [self] (_) in
             successLabel.isHidden = false
         }
-
-
     }
 }
 
